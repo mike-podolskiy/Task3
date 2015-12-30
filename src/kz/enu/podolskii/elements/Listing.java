@@ -9,7 +9,6 @@ public class Listing extends ArrayList<Sentence> implements TextItem {
 	private String listing;
 	
 	public Listing(String listing) {
-		System.out.println();
 		this.listing = listing;
 	}
 
