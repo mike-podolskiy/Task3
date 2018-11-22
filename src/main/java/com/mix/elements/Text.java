@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 import com.mix.manager.MessageManager;
 
-
 public class Text extends ArrayList<TextItem> {
 	
 	private static final long serialVersionUID = 1L;

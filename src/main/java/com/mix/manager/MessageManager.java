@@ -5,8 +5,8 @@ import java.util.ResourceBundle;
 public class MessageManager {
     
 	private static final String REGEX_PROPERTY_FILE = "regex";
-	public static final String INPUT = "resources/input.txt";
-	public static final String OUTPUT = "resources/output.txt";
+	public static final String INPUT = "input.txt";
+	public static final String OUTPUT = "output.txt";
    
     private ResourceBundle bundle;
     private static MessageManager configManager;

@@ -6,7 +6,6 @@ target/
 *.class
 *.jar
 *.ipr
-*.iml
 *.iws
 *.jasper
 .project
@@ -14,3 +13,5 @@ target/
 .settings
 bin/
 deploy.sh
+/output.txt
+/log.txt
